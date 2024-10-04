@@ -8,7 +8,7 @@ Starter_Code_20 Folder:
     lending_data.csv file]
 
 
-Results:
+Results
 -Accuracy Score: 0.99
 -Precision:
 --Healthy Loans (0): 1.00
