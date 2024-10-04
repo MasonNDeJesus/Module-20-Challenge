@@ -1,6 +1,12 @@
 # Module-20-Challenge
 Repository for the Supervised Learning challenge
 
+Starter_Code_20 Folder:
+  Resources Folder:
+    lending_data.csv file
+  credit_risk_classificationipnyb file
+  report-template.md file
+
 Results:
   Accuracy Score: 0.99
   Precision:
