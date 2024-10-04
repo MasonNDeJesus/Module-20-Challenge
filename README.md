@@ -8,17 +8,15 @@ Starter_Code_20 Folder:
     lending_data.csv file]
 
 
-Results
--Accuracy Score: 0.99
--Precision:
---Healthy Loans (0): 1.00
---High-Risk Loans (1): 0.85
--Recall:
---Healthy Loans (0): 0.99
---High-Risk Loans (1): 0.91
--F1-Score:
---Healthy Loans (0): 1.00
---High-Risk Loans (1): 0.88
+## Results
+
+- **Accuracy**: 0.99 (The model correctly predicts 99% of all loans.)
+- **Precision**:
+  - Healthy Loans (0): 1.00 (100% of predicted healthy loans are accurate.)
+  - High-Risk Loans (1): 0.85 (85% of predicted high-risk loans are accurate.)
+- **Recall**:
+  - Healthy Loans (0): 0.99 (The model identifies 99% of actual healthy loans.)
+  - High-Risk Loans (1): 0.91 (The model identifies 91% of actual high-risk loans.)
 
 Summary
 The logistic regression model demonstrates a high level of accuracy at 99%, indicating its effectiveness in predicting loan statuses. The precision for healthy loans is perfect at 1.00, suggesting that when the model predicts a loan as healthy, it is almost always correct. However, the precision for high-risk loans is lower at 0.85, meaning that there is still a 15% chance of misclassifying a loan as high-risk when it is actually healthy.
