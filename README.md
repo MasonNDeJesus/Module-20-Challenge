@@ -2,10 +2,10 @@
 Repository for the Supervised Learning challenge
 
 Starter_Code_20 Folder:
-  credit_risk_classificationipnyb file
-  report-template.md file
-  Resources Folder:
-    lending_data.csv file
+  [credit_risk_classificationipnyb file]
+  [report-template.md file]
+  [Resources Folder:
+    lending_data.csv file]
 
 
 Results:
