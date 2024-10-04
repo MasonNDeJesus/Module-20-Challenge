@@ -17,6 +17,9 @@ Starter_Code_20 Folder:
 - **Recall**:
   - Healthy Loans (0): 0.99 (The model identifies 99% of actual healthy loans.)
   - High-Risk Loans (1): 0.91 (The model identifies 91% of actual high-risk loans.)
+- **F1-Score**:
+  - Healthy Loans (0): 1.00
+  - High-Risk Loans (1): 0.88
 
 Summary:
 
